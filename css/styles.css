@@ -1554,3 +1554,22 @@ button {
         left: -36px;
     }
 }
+.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+    background: none ;
+}
+.image-gallery img {
+    width: 45%;
+    height: auto;
+    border-radius: 8px;
+    max-width: 200px;
+}
+@media (max-width: 768px) {
+    .image-gallery img {
+        width: 100%;
+    }
+}
