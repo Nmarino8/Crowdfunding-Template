@@ -30,7 +30,11 @@ Crowdfunding-Template/
 │  └─ legal.css                # Styles for legal pages
 ├─ js/
 │  └─ script.js                # JavaScript for interactivity
-├─ assets/                     # Images, icons, logo
+├─ images/
+│  ├─ Picture1.png
+│  ├─ Picture2.png
+│  ├─ Picture3.png
+│  └─ Picture4.png
 └─ README.md                   # Project documentation
 ```
 
@@ -126,3 +130,4 @@ Reward Card Example (HTML)
 > Contributions welcome — feel free to open issues or pull requests
 
 ---
+
